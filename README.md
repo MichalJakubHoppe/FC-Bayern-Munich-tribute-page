@@ -4,7 +4,7 @@ Built based on HTML and CSS
 
 An original project based on the think responsively Frontend career path at scrimba.
 
-#Live preview:
+#Live preview: https://michaljakubhoppe.github.io/FC-Bayern-Munich-tribute-page/
 
 #Features used:
 -flex-box,
